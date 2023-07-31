@@ -1,2 +1,10 @@
 # Workout-Wednesday-Power-BI-Challenge
-This repository showcases my Power BI skills in data visualization &amp; analysis. I participate in the Workout Wednesday challenge to demonstrate real-world dataset proficiency, advanced modeling, and appealing reports
+
+Workout Wednesday presents a weekly opportunity to engage in data-driven visualization. The challenges are thoughtfully curated to foster personal growth in both Tableau and Power BI expertise.
+
+Every Wednesday, a new challenge is unveiled, prompting participants to skillfully reproduce the presented visualization. The objective is to closely emulate the challenge and showcase proficiency in data analysis and visualization.
+
+
+
+
+
