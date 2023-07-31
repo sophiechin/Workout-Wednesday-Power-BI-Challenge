@@ -19,6 +19,6 @@ The participants in this week's challenge are asked to enhance the report from [
 ## Solution
 ***Dataset***: To fulfill the challenge objective, I used the dataset provided by the instruction which is the *Tableau SuperStore* dataset available on [data world](https://data.world/stanke/superstore-20214)
 
-**Here is my visualization in Power BI after following the requirements**. ***[Click Here for Live Interactive Dashboard](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/WOW2022-Week-40-Power-BI-Field-Parameters-with-Conditional/m-p/2832529)***
+**Here is my visualization in Power BI after following the requirements**. ***[Click Here for Live Interactive Dashboard & Solution File](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/WOW2022-Week-40-Power-BI-Field-Parameters-with-Conditional/m-p/2832529)***
 
 ![Alt Text](visualization/Week40.png)
