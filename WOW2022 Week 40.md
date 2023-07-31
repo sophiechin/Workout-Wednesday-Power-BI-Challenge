@@ -21,4 +21,4 @@ The participants in this week's challenge are asked to enhance the report from [
 
 **Here is my visualization in Power BI after following the requirements**. ***[Click Here for Live Interactive Dashboard](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/WOW2022-Week-40-Power-BI-Field-Parameters-with-Conditional/m-p/2832529)***
 
-![Alt Text](URL_of_the_image)
+![Alt Text](visualization/Week40.png)
