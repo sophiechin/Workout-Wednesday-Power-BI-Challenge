@@ -6,11 +6,11 @@ This week's task involves a challenging assignment: calculating customer lifetim
 
 ## Requirement
 
-
 Create a stacked bar chart that displays the cumulative value of consumers for each quarter since their initial order.
 
 The total bar size will represent the running total of customers per quarter. Additionally, the first bar will represent the incremental value by quarter, highlighted in the color #5557EB. On the other hand, the second bar will represent the value from previous quarters, which is the difference between the total value and the incremental value for the current quarter, displayed in the color #BCBCF7
 
+**Dataset**: [Click Here](https://data.world/nerdywithdata/sample-superstore/workspace/file?filename=Sample+-+Superstore.xls)
 
 ## Solutions
 
