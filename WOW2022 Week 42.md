@@ -217,7 +217,7 @@ I customize this Deneb in order to build overlapping bar chart
 
 ![Deneb 7](visualization/Week42_Deneb7.png)
 
-##Final Visualization
+## Final Visualization
 
 Therefore, here is the final visualization ([CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiYmY1ZjdjNTMtOWI1MC00NmMyLTlmOTctNTMzNzY3Y2NhYTNiIiwidCI6ImEwMjlmZWQwLWZjNGUtNDczNy1hYjA4LWNjYThiZTU3YmVkOSIsImMiOjEwfQ%3D%3D) to the Interactive Dashboard in Power BI)
 
